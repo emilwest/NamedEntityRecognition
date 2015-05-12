@@ -1,0 +1,387 @@
+1: Mol Biol Cell  2002 Mar;13(3):854-65 
+
+Endoplasmic reticulum dynamics, inheritance, and cytoskeletal interactions in
+budding yeast.
+
+
+
+Fehrenbacher KL, Davis D, Wu M, Boldogh I, Pon LA.
+
+Department of Anatomy and Cell Biology, Columbia University, College of
+Physicians and Surgeons, New York, New York 10032.
+
+
+
+The endoplasmic reticulum (ER) in Saccharomyces cerevisiae consists of a
+reticulum underlying the plasma membrane (cortical ER) and ER associated with
+the nuclear envelope (nuclear ER). We used a Sec63p-green fluorescent protein
+fusion protein to study motility events associated with inheritance of cortical
+ER and nuclear ER in living yeast cells. During M phase before nuclear
+migration, we observed thick, apparently rigid tubular extensions emanating from
+the nuclear ER that elongate, undergo sweeping motions along the cell cortex,
+and shorten. Two findings support a role for microtubules in this process.
+First, extension of tubular structures from the nuclear ER is inhibited by
+destabilization of microtubules. Second, astral microtubules, structures that
+undergo similar patterns of extension, cortical surveillance and retraction,
+colocalize with nuclear ER extensions. During S and G(2) phases of the cell
+cycle, we observed anchorage of the cortical ER at the site of bud emergence and
+apical bud growth. Thin tubules of the ER that extend from the anchored cortical
+ER display undulating, apparently random movement and move into the bud as it
+grows. Finally, we found that cortical ER morphology is sensitive to a
+filamentous actin-destabilizing drug, latrunculin-A, and to mutations in the
+actin-encoding ACT1 gene.
+
+Our observations support 1) different mechanisms and
+cytoskeletal mediators for the inheritance of nuclear and cortical ER elements
+and 2) a mechanism for cortical ER inheritance that is cytoskeleton dependent
+but relies on anchorage, not directed movement.
+
+PMID: 11907267 [PubMed - in process]
+
+
+
+
+
+2: Genetics  2002 Mar;160(3):923-34 
+
+The Novel Adaptor Protein, Mti1p, and Vrp1p, a Homolog of Wiskott-Aldrich
+Syndrome Protein-Interacting Protein (WIP), May Antagonistically Regulate Type I
+Myosins in Saccharomyces cerevisiae.
+
+
+
+Mochida J, Yamamoto T, Fujimura-Kamada K, Tanaka K.
+
+Division of Molecular Interaction, Institute for Genetic Medicine, Hokkaido
+University Graduate School of Medicine, Sapporo, Hokkaido, 060-0815, Japan.
+
+
+
+Type I myosins in yeast, Myo3p and Myo5p (Myo3/5p), are involved in the
+reorganization of the actin cytoskeleton. The SH3 domain of Myo5p regulates the
+polymerization of actin through interactions with both Las17p, a homolog of
+mammalian Wiskott-Aldrich syndrome protein (WASP), and Vrp1p, a homolog of
+WASP-interacting protein (WIP). Vrp1p is required for both the localization of
+Myo5p to cortical patch-like structures and the ATP-independent interaction
+between the Myo5p tail region and actin filaments. We have identified and
+characterized a new adaptor protein, Mti1p (Myosin tail region-interacting
+protein), which interacts with the SH3 domains of Myo3/5p. Mti1p
+co-immunoprecipitated with Myo5p and Mti1p-GFP co-localized with cortical actin
+patches. A null mutation of MTI1 exhibited synthetic lethal phenotypes with
+mutations in SAC6 and SLA2, which encode actin-bundling and cortical
+actin-binding proteins, respectively. Although the mti1 null mutation alone did
+not display any obvious phenotype, it suppressed vrp1 mutation phenotypes,
+including temperature-sensitive growth, abnormally large cell morphology,
+defects in endocytosis and salt-sensitive growth. These results suggest that
+Mti1p and Vrp1p antagonistically regulate type I myosin functions.
+
+PMID: 11901111 [PubMed - in process]
+
+
+
+
+
+3: J Mol Biol  2002 Mar 8;316(5):1071-81 
+
+Mechanistic Implications for Escherichia coli Cofactor-dependent
+Phosphoglycerate Mutase Based on the High-resolution Crystal Structure of a
+Vanadate Complex.
+
+
+
+Bond CS, White MF, Hunter WN.
+
+Division of Biological Chemistry and Molecular Microbiology, Wellcome Trust
+Biocentre, University of Dundee, Dundee, DD1 5EH, UK
+
+
+
+The structure of Escherichia coli cofactor-dependent phosphoglycerate mutase
+(dPGM), complexed with the potent inhibitor vanadate, has been determined to a
+resolution of 1.30A (R-factor 0.159; R-free 0.213). The inhibitor is present in
+the active site, principally as divanadate, but with evidence of additional
+vanadate moieties at either end, and representing a different binding mode to
+that observed in the structural homologue prostatic acid phosphatase. The
+analysis reveals the enzyme-ligand interactions involved in inhibition of the
+mutase activity by vanadate and identifies a water molecule, observed in the
+native E.coli dPGM structure which, once activated by vanadate, may
+dephosphorylate the active protein. Rather than reflecting the active
+conformation previously observed for E.coli dPGM, the inhibited protein's
+conformation resembles that of the inactive dephosphorylated Saccharomyces
+cerevisiae dPGM. The provision of a high-resolution structure of both active and
+inactive forms of dPGM from a single organism, in conjunction with computational
+modelling of substrate molecules in the active site provides insight into the
+binding of substrates and the specific interactions necessary for three
+different activities, mutase, synthase and phosphatase, within a single active
+site. The sequence similarity of E.coli and human dPGMs allows us to correlate
+stucture with clinical pathology. Copyright 2002 Elsevier Science Ltd.
+
+PMID: 11884145 [PubMed - in process]
+
+
+
+
+
+4: J Mol Biol  2002 Mar 1;316(4):955-68 
+
+Implications for the Ubiquitination Reaction of the Anaphase-promoting Complex
+from the Crystal Structure of the Doc1/Apc10 
+
+Subunit.
+
+Au SW, Leng X, Harper JW, Barford D.
+
+Section of Structural Biology, Chester Beatty Laboratories, Institute of Cancer
+Research, 237 Fulham Road, London, SW3 6JB, UK
+
+
+
+The anaphase-promoting complex (APC) is a multi-subunit E3 protein ubiquitin
+ligase that is responsible for the metaphase to anaphase transition and the exit
+from mitosis. One of the subunits of the APC that is required for its
+ubiquitination activity is Doc1/Apc10, a protein composed of a Doc1 homology
+domain that has been identified in a number of diverse putative E3 ubiquitin
+ligases. Here, we present the crystal structure of Saccharomyces cerevisiae
+Doc1/Apc10 at 2.2A resolution. The Doc1 homology domain forms a beta-sandwich
+structure that is related in architecture to the galactose-binding domain of
+galactose oxidase, the coagulation factor C2 domain and a domain of XRCC1.
+Residues that are invariant amongst Doc1/Apc10 sequences, including a
+temperature-sensitive mitotic arrest mutant, map to a beta-sheet region of the
+molecule, whose counterpart in galactose oxidase, the coagulation factor C2
+domains and XRCC1, mediate bio-molecular interactions. This finding suggests the
+identification of the functionally important and conserved region of Doc1/Apc10
+and, since invariant residues of Doc1/Apc10 colocalise with conserved residues
+of other Doc1 homology domains, we propose that the Doc1 homology domains
+perform common ubiquitination functions in the APC and other E3 ubiquitin
+ligases. Copyright 2002 Elsevier Science Ltd.
+
+PMID: 11884135 [PubMed - in process]
+
+
+
+
+
+5: Proc Natl Acad Sci U S A  2002 Mar 5;99(5):2684-9 
+
+Interactions among the protein and RNA subunits of Saccharomyces cerevisiae
+nuclear RNase 
+P.
+
+Houser-Scott F, Xiao S, Millikin CE, Zengel JM, Lindahl L, Engelke DR.
+
+Department of Biological Chemistry, University of Michigan, Ann Arbor, MI
+48109-0606; and Department of Biological Sciences, University of
+Maryland--Baltimore County, Baltimore, MD 21250.
+
+
+
+Ribonuclease P (RNase P) is a ubiquitous endoribonuclease that cleaves precursor
+tRNAs to generate mature 5prime prime or minute termini. Although RNase P from
+all kingdoms of life have been found to have essential RNA subunits, the number
+and size of the protein subunits ranges from one small protein in bacteria to at
+least nine proteins of up to 100 kDa. In Saccharomyces cerevisiae nuclear RNase
+P, the enzyme is composed of ten subunits: a single RNA and nine essential
+proteins. The spatial organization of these components within the enzyme is not
+yet understood. In this study we examine the likely binary protein--protein and
+protein--RNA subunit interactions by using directed two- and three-hybrid tests
+in yeast. Only two protein subunits, Pop1p and Pop4p, specifically bind the RNA
+subunit. Pop4p also interacted with seven of the other eight protein subunits.
+The remaining protein subunits all showed one or more specific protein--protein
+interactions with the other integral protein subunits. Of particular interest
+was the behavior of Rpr2p, the only protein subunit found in RNase P but not in
+the closely related enzyme, RNase MRP. Rpr2p interacts strongly with itself as
+well as with Pop4p. Similar interactions with self and Pop4p were also detected
+for Snm1p, the only unique protein subunit so far identified in RNase MRP. This
+observation is consistent with Snm1p and Rpr2p serving analogous functions in
+the two enzymes. This study provides a low-resolution map of the multisubunit
+architecture of the ribonucleoprotein enzyme, nuclear RNase P from S.
+cerevisiae.
+
+PMID: 11880623 [PubMed - in process]
+
+
+
+
+
+6: Mol Cell Biol  2002 Mar;22(6):1615-25 
+
+Transcription activator interactions with multiple SWI/SNF subunits.
+
+
+
+Neely KE, Hassan AH, Brown CE, Howe L, Workman JL.
+
+Department of Biochemistry and Molecular Biology, Howard Hughes Medical
+Institute, The Pennsylvania State University, University Park, PA 16802, USA.
+
+
+
+We have previously shown that the yeast SWI/SNF complex stimulates in vitro
+transcription from chromatin templates in an ATP-dependent manner. SWI/SNF
+function in this regard requires the presence of an activator with which it can
+interact directly, linking activator recruitment of SWI/SNF to transcriptional
+stimulation. In this study, we determine the SWI/SNF subunits that mediate its
+interaction with activators. Using a photo-cross-linking label transfer
+strategy, we show that the Snf5, Swi1, and Swi2/Snf2 subunits are contacted by
+the yeast acidic activators, Gcn4 and Hap4, in the context of the intact native
+SWI/SNF complex. In addition, we show that the same three subunits can interact
+individually with acidic activation domains, indicating that each subunit
+contributes to binding activators. Furthermore, mutations that reduce the
+activation potential of these activators also diminish its interaction with each
+of these SWI/SNF subunits. Thus, three distinct subunits of the SWI/SNF complex
+contribute to its interactions with activation domains.
+
+PMID: 11865042 [PubMed - indexed for MEDLINE]
+
+
+
+
+
+7: J Mol Biol  2001 Nov 30;314(3):563-75 
+
+Solution structures of two FHA1-phosphothreonine peptide complexes provide
+insight into the structural basis of the ligand specificity of FHA1 from yeast
+Rad53.
+
+
+
+Yuan C, Yongkiettrakul S, Byeon IJ, Zhou S, Tsai MD.
+
+Department of Chemistry, The Ohio State University, Columbus OH 43210, USA.
+
+Rad53, 
+
+a yeast checkpoint protein involved in regulating the repair of DNA
+damage, contains two forkhead-associated domains, FHA1 and FHA2. Previous
+combinatorial library screening has shown that FHA1 strongly selects peptides
+containing a pTXXD motif. Subsequent location of this motif within the sequence
+of Rad9, the target protein, coupled with spectroscopic analysis has led to
+identification of a tight binding sequence that is likely the binding site of
+FHA1: (188)SLEV(pT)EADATFVQ(200). We present solution structures of FHA1 in
+complex with this pT-peptide and with another Rad9-derived pT-peptide that has
+ca 30-fold lower affinity, (148)KKMTFQ(pT)PTDPLE(160). Both complexes showed
+intermolecular NOEs predominantly between three peptide residues (pT, +1, and +2
+residues) and five FHA1 residues (S82, R83, S85, T106, and N107). Furthermore,
+the following interactions were implicated on the basis of chemical shift
+perturbations and structural analysis: the phosphate group of the pT residue
+with the side-chain amide group of N86 and the guanidino group of R70, and the
+carboxylate group of Asp (at the +3 position) with the guanidino group of R83.
+The generated structures revealed a similar binding mode adopted by these two
+peptides, suggesting that pT and the +3 residue Asp are the major contributors
+to binding affinity and specificity, while +1 and +2 residues could provide
+additional fine-tuning. It was also shown that FHA1 does not bind to the
+corresponding pS-peptides or a related pY-peptide. We suggest that
+differentiation between pT and pS-peptides by FHA1 can be attributed to
+hydrophobic interactions between the methyl group of the pT residue and the
+aliphatic protons of R83, S85, and T106 from FHA1. Copyright 2001 Academic
+Press.
+
+PMID: 11846567 [PubMed - indexed for MEDLINE]
+
+
+
+
+
+8: Nucleic Acids Res  2002 Feb 15;30(4):1029-37 
+
+Functional and physical interactions between components of the Prp19p-associated
+complex.
+
+
+
+Chen CH, Yu WC, Tsao TY, Wang LY, Chen HR, Lin JY, Tsai WY, Cheng SC.
+
+Institute of Molecular Biology, Academia Sinica, Nankang, Taiwan, Republic of
+China.
+
+
+
+The Prp19p-associated complex is essential for the yeast pre-mRNA splicing
+reaction. The complex consists of at least eight protein components, but is not
+tightly associated with spliceosomal snRNAs. By a combination of genetic and
+biochemical methods we previously identified four components of this complex,
+Ntc25p, Ntc85p, Ntc30p and Ntc20p, all of them being novel splicing factors. We
+have now identified three other components of the complex, Ntc90p, Ntc77p and
+Ntc31p. These three proteins were also associated with the spliceosome during
+the splicing reaction in the same manner as Prp19p, concurrently with or
+immediately after dissociation of U4 snRNA. Two-hybrid analysis revealed that
+none of these proteins interacted with Prp19p or Ntc25p, but all interacted with
+Ntc85p. An interaction network between the identified components of the
+Prp19p-associated complex is demonstrated. Biochemical analysis revealed that
+Ntc90p, Ntc31p, Ntc30p and Ntc20p form a subcomplex, which, through interacting
+with Ntc85p and Ntc77p, can associate with Prp19p and Ntc25p to form the
+Prp19p-associated complex. Genetic analysis suggests that Ntc31p, Ntc30p and
+Ntc20p may play roles in modulating the function of Ntc90p.
+
+PMID: 11842115 [PubMed - indexed for MEDLINE]
+
+
+
+
+
+9: Biochemistry  2002 Feb 19;41(7):2409-20 
+
+Novel interactions of Saccharomyces cerevisiae type 1 protein phosphatase
+identified by single-step affinity purification and mass spectrometry.
+
+
+
+Walsh EP, Lamont DJ, Beattie KA, Stark MJ.
+
+School of Life Sciences Biocentre, University of Dundee, Dundee DD1 5EH, UK.
+
+
+
+The catalytic subunit of Saccharomyces cerevisiae type 1 protein phosphatase
+(PP1(C)) is encoded by the essential gene GLC7 and is involved in regulating
+diverse cellular processes. To identify potential regulatory or targeting
+subunits of yeast PP1(C), we tagged Glc7p at its amino terminus with protein A
+and affinity-purified Glc7p protein complexes from yeast. The purified proteins
+were separated by sodium dodecyl sulfate-polyacrylamide gel electrophoresis
+(SDS-PAGE) and identified by peptide mass fingerprint analysis using
+matrix-assisted laser desorption/ionization (MALDI) mass spectrometry. To
+confirm the accuracy of our identifications, peptides from some of the proteins
+were also sequenced using high-performance liquid chromatography (HPLC) coupled
+to tandem mass spectrometry. Only four of the Glc7p-associated proteins that we
+identified (Mhp1p, Bni4p, Ref2p, and Sds22p) have previously been shown to
+interact with Glc7p, and multiple components of the CPF (cleavage and
+polyadenylation factor) complex involved in messenger RNA 3'-end processing were
+present as major components in the Glc7p-associated protein fraction. To confirm
+the interaction of Glc7p with this complex, we used the same approach to purify
+and characterize the components of the yeast CPF complex using protein A-tagged
+Pta1p. Six known components of the yeast (CPF) complex, together with Glc7p,
+were identified among the Pta1p-associated polypeptides using peptide mass
+fingerprint analysis. Thus Glc7p is a novel component of the CPF complex and may
+therefore be involved regulating mRNA 3'-end processing.
+
+PMID: 11841235 [PubMed - in process]
+
+
+
+
+
+10: Biotechnol Prog  2002 Jan-Feb;18(1):116-23 
+
+Recovery of recombinant cutinase using detergent foam.
+
+
+
+Fernandes S, Mattiasson B, Hatti-Kaul R.
+
+Department of Biotechnology, Center for Chemistry & Chemical Engineering, Lund
+University, P.O. Box 124, S-221 00 Lund, Sweden.
+
+
+
+Foam generated by vigorous stirring of a nonionic detergent, Triton X-114, was
+used for the recovery of recombinant cutinase expressed by Saccharomyces
+cerevisiae. The enzyme with a hydrophobic fusion tag, (Trp-Pro)(4), was
+recovered with a higher yield as compared to the wild-type cutinase, indicating
+the involvement of hydrophobic interactions in protein isolation with the foam.
+The influence of various factors including volume, dilution, pH, different
+additives, and cell concentration in the medium on enzyme recovery was
+investigated. Interaction of the enzyme with detergent was monitored using
+fluorescence spectroscopy. No significant changes in protein conformation after
+the isolation procedure were observed using circular dichroism.
+
+PMID: 11822909 [PubMed - in process]
